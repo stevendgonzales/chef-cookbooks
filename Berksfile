@@ -11,4 +11,4 @@ cookbook 'rabbitmq'
 
 cookbook 'meetme-newrelic-plugin', git: 'git@github.com:ProjectMeniscus/chef-meetme-newrelic-plugin'
 cookbook 'rackspacecloud', github: rackops/rackspacecloud
-cookbook 'blockstorage-lvm', github: 'ProjectMeniscus/blockstorage-lvm' 
+cookbook 'blockstorage-lvm', github: 'ProjectMeniscus/blockstorage-lvm' cookbook 'README.md', github: 'stevendgonzales/README.md'
